@@ -1,0 +1,1 @@
+print('hellofrom sript a')
